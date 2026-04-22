@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+a {
+  display: block;
+  margin: 10px;
+  color: #007bff;
+}
